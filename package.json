@@ -1,0 +1,20 @@
+{
+  "name": "tictactotes",
+  "version": "1.0.0",
+  "description": "A command-line Tic Tac Toe game for two players with a sense of humor",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdomingo/TicTacTotes.git"
+  },
+  "author": "Thomas D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdomingo/TicTacTotes/issues"
+  },
+  "homepage": "https://github.com/tdomingo/TicTacTotes#readme"
+}
